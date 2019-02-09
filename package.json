@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tg970/GraphQL#readme",
   "dependencies": {
-    "graphql-yoga": "^1.14.3"
+    "graphql-yoga": "^1.17.4"
   }
 }
